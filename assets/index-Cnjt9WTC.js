@@ -63285,8 +63285,8 @@ const Fi = (e, t = 3) => {
       void 0
     );
   },
-  kue = "https://x.com/",
-  Aue = "https://t.me/",
+  kue = "https://x.com/cotiagent_ai",
+  Aue = "https://t.me/cotiagent_ai",
   Pue = () =>
     G.jsxDEV(
       "footer",
